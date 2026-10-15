@@ -27,51 +27,83 @@ Right now I'm learning the other half of the stack: Django REST Framework and Fa
 
 ---
 
-## Skills
+## Tech Stack
 
-Frontend is my main focus. Backend and databases are what I'm actively learning through projects.
+### Core stack
 
-### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css&logoColor=639" alt="CSS3">
+  <img src="https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap">
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,js,html,css,bootstrap&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,js,html,css,bootstrap&theme=light">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" alt="React, JavaScript, HTML, CSS and Bootstrap">
-</picture>
+### Backend & databases — learning through projects
 
-**React · JavaScript · HTML · CSS · Bootstrap**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,mysql,sqlite&theme=dark" alt="Python, Django, FastAPI, MySQL and SQLite">
+</p>
 
-### Backend & Databases
+Python · Django REST Framework · FastAPI · SQLAlchemy · SQL
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,django,fastapi,mysql,sqlite&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,django,fastapi,mysql,sqlite&theme=light">
-  <img src="https://skillicons.dev/icons?i=py,django,fastapi,mysql,sqlite" alt="Python, Django, FastAPI, MySQL and SQLite">
-</picture>
+### Development tools
 
-**Python · Django REST Framework · FastAPI · SQLAlchemy · SQL**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and Visual Studio Code">
+</p>
+
+### Learning roadmap
+
+Topics I plan to explore as I strengthen my Python and backend foundations.
+
+| Area | Topics |
+| :--- | :--- |
+| **Data analysis** | Pandas, NumPy and Jupyter |
+| **Machine learning** | scikit-learn, model training and evaluation |
+| **AI applications** | Large language models, RAG and LLMOps |
+| **Cloud** | AWS fundamentals, Amazon S3, Lambda and API Gateway |
+| **Deployment** | Docker, followed by Kubernetes |
 
 ---
-## Language usage
+
+## GitHub Snapshot
 
 <div align="center">
 
-<p>Languages used across my public GitHub repositories.</p>
+### GitHub stats
+
+<a href="https://github.com/neetunawani11">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=neetunawani11&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&title_color=A78BFA&icon_color=22D3EE&text_color=CBD5E1&bg_color=0D1117"
+    alt="Neetu Nawani's GitHub statistics"
+    width="480"
+  />
+</a>
+
+### Top languages
 
 <a href="https://github.com/neetunawani11?tab=repositories">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=neetunawani11&layout=donut-vertical&langs_count=10&theme=tokyonight&hide_border=true&border_radius=20&title_color=A78BFA&text_color=CBD5E1&bg_color=0D1117"
-    alt="Neetu Nawani's most used programming languages, shown as a circular donut chart with percentages"
+    alt="Language usage across Neetu Nawani's repositories shown as a donut chart"
     width="360"
   />
 </a>
 
 <p>
-  <sub>
-    Based on repository language data; percentages represent code distribution,
-    not proficiency or time spent coding.
-  </sub>
+  <sub>Language percentages reflect repository code distribution, not proficiency.</sub>
 </p>
+
+### GitHub streak
+
+<a href="https://github.com/neetunawani11">
+  <img
+    src="https://streak-stats.demolab.com/?user=neetunawani11&theme=tokyonight&hide_border=true&border_radius=20&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA"
+    alt="Neetu Nawani's GitHub contribution streak"
+    width="480"
+  />
+</a>
 
 </div>
 
