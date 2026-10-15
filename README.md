@@ -52,6 +52,30 @@ Frontend is my main focus. Backend and databases are what I'm actively learning 
 **Python · Django REST Framework · FastAPI · SQLAlchemy · SQL**
 
 ---
+## Language usage
+
+<div align="center">
+
+<p>Languages used across my public GitHub repositories.</p>
+
+<a href="https://github.com/neetunawani11?tab=repositories">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=neetunawani11&layout=donut-vertical&langs_count=10&theme=tokyonight&hide_border=true&border_radius=20&title_color=A78BFA&text_color=CBD5E1&bg_color=0D1117"
+    alt="Neetu Nawani's most used programming languages, shown as a circular donut chart with percentages"
+    width="360"
+  />
+</a>
+
+<p>
+  <sub>
+    Based on repository language data; percentages represent code distribution,
+    not proficiency or time spent coding.
+  </sub>
+</p>
+
+</div>
+
+---
 
 ## Featured projects
 
