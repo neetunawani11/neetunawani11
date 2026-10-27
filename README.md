@@ -47,7 +47,7 @@ Right now I'm learning the other half of the stack: Django REST Framework and Fa
 
 Python · Django REST Framework · FastAPI · SQLAlchemy · SQL
 
-### Development tools
+### Development tools 
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and Visual Studio Code">
