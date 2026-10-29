@@ -1,264 +1,261 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:06B6D4&height=240&section=header&text=Neetu%20Nawani&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Frontend%20developer%20building%20toward%20full-stack&descSize=20&descAlignY=60" alt="Neetu Nawani — frontend developer building toward full-stack" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:06B6D4&height=240&section=header&text=Neetu%20Nawani&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Python%20%7C%20Frontend%20Development%20%7C%20Backend%20Learning&descSize=18&descAlignY=60" width="100%" alt="Neetu Nawani">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&height=60&lines=Building+responsive+interfaces+with+React;Writing+clean+HTML%2C+CSS+and+JavaScript;Learning+backend+with+Django+and+FastAPI;Growing+into+full-stack+through+projects" alt="Animated introduction about React, frontend development, Python APIs and full-stack learning" width="100%">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&height=70&lines=%3E+Hello+World%2C+I'm+Neetu+Nawani;%3E+Building+Projects+with+Python;%3E+Creating+Responsive+Web+Interfaces;%3E+Exploring+Django%2C+FastAPI+and+SQL;%3E+Learning%2C+Coding+and+Improving+Every+Day" alt="Animated developer introduction">
 
-**Noida, India** · Frontend development with React, JavaScript, HTML and CSS
+### 💻 Python & Frontend Developer | Exploring Backend Development
 
-[About](#about) · [Skills](#skills) · [Projects](#featured-projects) · [Currently improving](#currently-improving)
+📍 Noida, India
 
-<br>
-
-[![Explore Projects](https://img.shields.io/badge/EXPLORE_PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neetunawani11?tab=repositories)
-[![Portfolio Source](https://img.shields.io/badge/PORTFOLIO_SOURCE-0891B2?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/neetunawani11/https-neetunawani11.github.io)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://neetunawani11.github.io/)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neetunawani11?tab=repositories)
+[![Repositories](https://img.shields.io/badge/MY_PROJECTS-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neetunawani11?tab=repositories)
 
 </div>
 
 ---
 
-## About
+## 💻 Developer Terminal
 
-I'm **Neetu Nawani**, a frontend developer in Noida, India. I enjoy turning an idea into an interface that is clear, responsive and easy to use, mostly with React, JavaScript, HTML and CSS.
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Neetu Nawani"
+        self.location = "Uttarakhand, India"
+        self.role = "Python & Frontend Developer"
 
-Right now I'm learning the other half of the stack: Django REST Framework and FastAPI for backends, SQL for databases, and Python for small data projects. I learn best by building small, complete projects, and the ones below show where I am so far.
+        self.languages = [
+            "Python",
+            "JavaScript",
+            "SQL",
+            "HTML",
+            "CSS"
+        ]
 
-> **My direction:** connecting interfaces, APIs and databases as I work toward full-stack development.
+        self.interests = [
+            "Web Development",
+            "Backend APIs",
+            "Database Development",
+            "Python Automation",
+            "Data Analysis"
+        ]
 
----
+        self.learning = [
+            "Django",
+            "FastAPI",
+            "Backend Development",
+            "Machine Learning Fundamentals"
+        ]
 
-## Tech Stack
+        self.tools = [
+            "Git",
+            "GitHub",
+            "VS Code"
+        ]
 
-### Core stack
+    def say_hello(self):
+        return "Learning by building real projects!"
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css&logoColor=639" alt="CSS3">
-  <img src="https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap">
-</p>
-
-### Backend & databases — learning through projects
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,mysql,sqlite&theme=dark" alt="Python, Django, FastAPI, MySQL and SQLite">
-</p>
-
-Python · Django REST Framework · FastAPI · SQLAlchemy · SQL
-
-### Development tools 
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and Visual Studio Code">
-</p>
-
-### Learning roadmap
-
-Topics I plan to explore as I strengthen my Python and backend foundations.
-
-| Area | Topics |
-| :--- | :--- |
-| **Data analysis** | Pandas, NumPy and Jupyter |
-| **Machine learning** | scikit-learn, model training and evaluation |
-| **AI applications** | Large language models, RAG and LLMOps |
-| **Cloud** | AWS fundamentals, Amazon S3, Lambda and API Gateway |
-| **Deployment** | Docker, followed by Kubernetes |
+developer = Developer()
+print(developer.say_hello())
+```
 
 ---
 
-## GitHub Snapshot
+## 🚀 About Me
+
+Hey there! 👋
+
+I'm **Neetu Nawani**, a developer interested in Python, frontend development, backend systems and databases.
+
+I enjoy creating responsive websites, exploring Python applications and improving my programming skills through hands-on projects.
+
+My journey includes working with HTML, CSS, JavaScript, React, Python and SQL, while continuing to explore backend development with Django and FastAPI.
+
+- 💻 Building projects with Python and web technologies
+- 🌐 Interested in responsive websites and user interfaces
+- 🗄️ Practising SQL queries and database concepts
+- ⚙️ Exploring API development with Django and FastAPI
+- 📊 Interested in data analysis and Python automation
+- 🎯 Working toward becoming a well-rounded software developer
+
+> "The best way to learn programming is to build, experiment, debug and keep improving."
+
+---
+
+## 🛠️ Tech Arsenal
+
+### 🌐 Frontend Development
 
 <div align="center">
 
-### GitHub stats
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap&theme=dark" alt="Frontend technologies">
 
-<a href="https://github.com/neetunawani11">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=neetunawani11&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&title_color=A78BFA&icon_color=22D3EE&text_color=CBD5E1&bg_color=0D1117"
-    alt="Neetu Nawani's GitHub statistics"
-    width="480"
-  />
-</a>
+</div>
 
-### Top languages
+**Technologies:** HTML5 · CSS3 · JavaScript · React · Bootstrap
 
-<a href="https://github.com/neetunawani11?tab=repositories">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=neetunawani11&layout=donut-vertical&langs_count=10&theme=tokyonight&hide_border=true&border_radius=20&title_color=A78BFA&text_color=CBD5E1&bg_color=0D1117"
-    alt="Language usage across Neetu Nawani's repositories shown as a donut chart"
-    width="360"
-  />
-</a>
+### 🐍 Python & Backend Development
 
-<p>
-  <sub>Language percentages reflect repository code distribution, not proficiency.</sub>
-</p>
+<div align="center">
 
-### GitHub streak
+<img src="https://skillicons.dev/icons?i=python,django,fastapi&theme=dark" alt="Python and backend technologies">
 
-<a href="https://github.com/neetunawani11">
-  <img
-    src="https://streak-stats.demolab.com/?user=neetunawani11&theme=tokyonight&hide_border=true&border_radius=20&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA"
-    alt="Neetu Nawani's GitHub contribution streak"
-    width="480"
-  />
-</a>
+</div>
+
+**Programming:** Python
+
+**Currently exploring:** Django · Django REST Framework · FastAPI · SQLAlchemy
+
+### 🗄️ Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" alt="Database technologies">
+
+</div>
+
+**Database concepts:** SQL · Database Design · CRUD Operations · Joins · Queries
+
+### ⚙️ Development Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Developer tools">
+
+</div>
+
+**Tools:** Git · GitHub · Visual Studio Code
+
+---
+
+## 🏆 Featured Projects
+
+### 📋 Task Management API
+
+A backend project developed using Django REST Framework to practise API development, task management and permission handling.
+
+**Technologies:** Python · Django · Django REST Framework
+
+[![View Repository](https://img.shields.io/badge/VIEW_SOURCE-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neetunawani11/task-management-api)
+
+---
+
+### ⚛️ Task Management Dashboard
+
+A React-based task management interface organised into reusable components for managing and displaying tasks.
+
+**Technologies:** React · JavaScript · CSS
+
+[![View Repository](https://img.shields.io/badge/VIEW_SOURCE-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neetunawani11/task-management-dashboard)
+
+---
+
+### 🎓 Student Records API
+
+A FastAPI project for managing student records using CRUD operations and SQLAlchemy database models.
+
+**Technologies:** Python · FastAPI · SQLAlchemy
+
+[![View Repository](https://img.shields.io/badge/VIEW_SOURCE-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neetunawani11/fastapi-student-api)
+
+---
+
+## 📂 More Projects
+
+| Project | Technologies | Repository |
+|---|---|---|
+| 📊 E-commerce Sales Analysis | Python, CSV, SVG | [View Project](https://github.com/neetunawani11/ecommerce-sales-analysis) |
+| 🛒 SQL E-commerce Project | SQL, Database Design | [View Project](https://github.com/neetunawani11/SQL-Ecommerce-Project) |
+| 🌐 Frontend Portfolio | HTML, CSS, JavaScript, Bootstrap | [View Project](https://github.com/neetunawani11/https-neetunawani11.github.io) |
+| 💻 Personal Portfolio Website | HTML, CSS, JavaScript | [View Project](https://github.com/neetunawani11/neetunawani11.github.io) |
+
+---
+
+## 🐍 My GitHub Contribution Snake
+
+<div align="center">
+
+### Watch the snake eat my contributions! 🟢
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neetunawani11/neetunawani11/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neetunawani11/neetunawani11/output/github-contribution-grid-snake.svg">
+  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/neetunawani11/neetunawani11/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 </div>
 
 ---
 
-## Featured projects
-
-Explore the projects below through their source code repositories.
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-<h3>?? Task Management API</h3>
-
-<p>A Django REST Framework backend with user registration, projects, tasks and permission checks that control access to project data.</p>
-
-<p>
-<code>Python</code>
-<code>Django</code>
-<code>Django REST Framework</code>
-</p>
- 
-<a href="https://github.com/neetunawani11/task-management-api">
-<img src="https://img.shields.io/badge/View_source_code-7C3AED?style=flat-square&logo=github&logoColor=white" alt="View Task Management API source code">
-</a>
-
-</td>
-<td valign="top" width="50%">
-
-<h3>?? Task Management Dashboard</h3>
-
-<p>A React task-management interface organised into task form, task list and task item components.</p>
-
-<p>
-<code>React</code>
-<code>JavaScript</code>
-<code>CSS</code>
-</p>
-
-<a href="https://github.com/neetunawani11/task-management-dashboard">
-<img src="https://img.shields.io/badge/View_source_code-0891B2?style=flat-square&logo=github&logoColor=white" alt="View Task Management Dashboard source code">
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td valign="top" width="50%">
-
-<h3>?? Student Records API</h3>
-
-<p>A FastAPI service with create, list, read, update and delete endpoints for student records, using SQLAlchemy models. Missing records return a 404 response.</p>
-
-<p>
-<code>Python</code>
-<code>FastAPI</code>
-<code>SQLAlchemy</code>
-</p>
-
-<a href="https://github.com/neetunawani11/fastapi-student-api">
-<img src="https://img.shields.io/badge/View_source_code-7C3AED?style=flat-square&logo=github&logoColor=white" alt="View Student Records API source code">
-</a>
-
-</td>
-<td valign="top" width="50%">
-
-<h3>?? E-commerce Sales Analysis</h3>
-
-<p>A Python script that reads fictional ride-on toy sales data and writes revenue and profit summaries by product, month and channel, along with SVG charts and findings.</p>
-
-<p>
-<code>Python</code>
-<code>CSV</code>
-<code>SVG</code>
-</p>
-
-<a href="https://github.com/neetunawani11/ecommerce-sales-analysis">
-<img src="https://img.shields.io/badge/View_source_code-0891B2?style=flat-square&logo=github&logoColor=white" alt="View E-commerce Sales Analysis source code">
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td valign="top" width="50%">
-
-<h3>?? SQL E-commerce Project</h3>
-
-<p>A shopping database project with a schema and queries for examining orders, products and sales revenue.</p>
-
-<p>
-<code>SQL</code>
-<code>Database Design</code>
-<code>Sales Analysis</code>
-</p>
-
-<a href="https://github.com/neetunawani11/SQL-Ecommerce-Project">
-<img src="https://img.shields.io/badge/View_source_code-7C3AED?style=flat-square&logo=github&logoColor=white" alt="View SQL E-commerce Project source code">
-</a>
-
-</td>
-<td valign="top" width="50%">
-
-<h3>?? Frontend Portfolio</h3>
-
-<p>Source code for a personal portfolio built with HTML, CSS and JavaScript, using Bootstrap 5 for its layout.</p>
-
-<p>
-<code>HTML</code>
-<code>CSS</code>
-<code>JavaScript</code>
-<code>Bootstrap 5</code>
-</p>
-
-<a href="https://github.com/neetunawani11/https-neetunawani11.github.io">
-<img src="https://img.shields.io/badge/View_source_code-0891B2?style=flat-square&logo=github&logoColor=white" alt="View Frontend Portfolio source code">
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-## Currently improving
-
-| Focus | What I'm practising |
-| :--- | :--- |
-| **Frontend** | Responsive layouts and reusable React components |
-| **Connecting the stack** | Connecting React interfaces to Django and FastAPI endpoints |
-| **Backend foundations** | Authentication, validation and permissions |
-| **Databases** | Relationships, joins and SQL analysis queries |
-| **Project quality** | Clearer documentation, setup instructions and tests |
-
----
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<h2>See the rest on GitHub</h2>
+### 📈 GitHub Statistics
 
-Every project above lives in its own repository, with more work in progress.
+<img src="https://github-readme-stats.vercel.app/api?username=neetunawani11&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=22D3EE&text_color=CBD5E1&bg_color=0D1117" width="480" alt="GitHub statistics">
 
-<br>
+### 💻 Most Used Languages
 
-<a href="https://github.com/neetunawani11?tab=repositories">
-<img src="https://img.shields.io/badge/Browse_all_repositories-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Browse all of Neetu Nawani's repositories">
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neetunawani11&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=CBD5E1&bg_color=0D1117" width="400" alt="Most used languages">
 
-<br><br>
+### 🔥 GitHub Streak
 
-**Thanks for exploring my work ??**
+<img src="https://streak-stats.demolab.com/?user=neetunawani11&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA" width="480" alt="GitHub contribution streak">
 
-[github.com/neetunawani11](https://github.com/neetunawani11)
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:06B6D4&height=110&section=footer" alt="" width="100%">
+---
+
+## 🌱 Currently Improving
+
+| Focus Area | What I'm Practising |
+|---|---|
+| 🐍 Python | Functions, OOP, automation and problem-solving |
+| 🌐 Frontend | Responsive design, JavaScript and React components |
+| ⚙️ Backend | Django, FastAPI and REST APIs |
+| 🗄️ SQL | Joins, database relationships and queries |
+| 📊 Data Analysis | Python, Pandas and NumPy fundamentals |
+| 🧪 Code Quality | Debugging, testing and documentation |
+| ☁️ Deployment | GitHub Pages, Docker and deployment basics |
+| 🤖 AI & ML | Exploring Python-based machine learning fundamentals |
+
+---
+
+## 🎯 Development Roadmap
+
+- [x] Create a GitHub developer profile
+- [x] Build a personal portfolio website
+- [x] Practise Python programming
+- [x] Work on SQL database projects
+- [ ] Improve React development skills
+- [ ] Strengthen Django and FastAPI knowledge
+- [ ] Build more end-to-end applications
+- [ ] Explore machine learning fundamentals
+- [ ] Learn Docker and cloud deployment
+- [ ] Contribute to open-source projects
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+### Let's Build Something Interesting!
+
+I'm always interested in learning new technologies, improving my projects and connecting with other developers.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neetunawani11)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://neetunawani11.github.io/)
+[![Repositories](https://img.shields.io/badge/Explore_Projects-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neetunawani11?tab=repositories)
+
+### 💜 Thanks for Visiting!
+
+**Keep Learning • Keep Building • Keep Growing**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:06B6D4&height=120&section=footer" width="100%" alt="Footer decoration">
 
 </div>
