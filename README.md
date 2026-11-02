@@ -1,6 +1,6 @@
 
 <div align="center">
-
+ 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:06B6D4&height=240&section=header&text=Neetu%20Nawani&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Python%20%7C%20Frontend%20Development%20%7C%20Backend%20Learning&descSize=18&descAlignY=60" width="100%" alt="Neetu Nawani">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&height=70&lines=%3E+Hello+World%2C+I'm+Neetu+Nawani;%3E+Building+Projects+with+Python;%3E+Creating+Responsive+Web+Interfaces;%3E+Exploring+Django%2C+FastAPI+and+SQL;%3E+Learning%2C+Coding+and+Improving+Every+Day" alt="Animated developer introduction">
