@@ -8,7 +8,7 @@
 ### ?? Python & Frontend Developer | Exploring Backend Development
 
 ?? Noida, India
-
+ 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://neetunawani11.github.io/)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neetunawani11?tab=repositories)
 [![Repositories](https://img.shields.io/badge/MY_PROJECTS-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neetunawani11?tab=repositories)
