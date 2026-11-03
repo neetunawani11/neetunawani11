@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="center"> 
  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:06B6D4&height=240&section=header&text=Neetu%20Nawani&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Python%20%7C%20Frontend%20Development%20%7C%20Backend%20Learning&descSize=18&descAlignY=60" width="100%" alt="Neetu Nawani">
 
