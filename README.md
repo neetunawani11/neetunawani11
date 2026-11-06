@@ -258,4 +258,4 @@ I'm always interested in learning new technologies, improving my projects and co
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:06B6D4&height=120&section=footer" width="100%" alt="Footer decoration">
 
-</div>
+</div> 
