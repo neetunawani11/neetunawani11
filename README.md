@@ -17,7 +17,7 @@ Noida, India
 
 --- 
 
-## ?? Developer Terminal
+##  Developer Terminal
 
 ```python
 class Developer:
@@ -64,7 +64,7 @@ print(developer.say_hello())
 
 ---
 
-## ?? About Me
+##  About Me
 
 Hey there! 
 
@@ -85,9 +85,9 @@ My journey includes working with HTML, CSS, JavaScript, React, Python and SQL, w
 
 ---
 
-## ??? Tech Arsenal
+##  Tech Arsenal
 
-### ?? Frontend Development
+###  Frontend Development
 
 <div align="center">
 
@@ -225,7 +225,7 @@ A FastAPI project for managing student records using CRUD operations and SQLAlch
 
 ---
 
-## ?? Development Roadmap
+##  Development Roadmap
 
 - [x] Create a GitHub developer profile
 - [x] Build a personal portfolio website
@@ -240,7 +240,7 @@ A FastAPI project for managing student records using CRUD operations and SQLAlch
 
 ---
 
-## ?? Connect With Me
+##  Connect With Me
 
 <div align="center">
 
