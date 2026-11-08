@@ -5,9 +5,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&height=70&lines=%3E+Hello+World%2C+I'm+Neetu+Nawani;%3E+Building+Projects+with+Python;%3E+Creating+Responsive+Web+Interfaces;%3E+Exploring+Django%2C+FastAPI+and+SQL;%3E+Learning%2C+Coding+and+Improving+Every+Day" alt="Animated developer introduction">
 
-### ?? Python & Frontend Developer | Exploring Backend Development
+### Python & Frontend Developer | Exploring Backend Development
 
-?? Noida, India
+Noida, India
  
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://neetunawani11.github.io/)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neetunawani11?tab=repositories)
@@ -66,7 +66,7 @@ print(developer.say_hello())
 
 ## ?? About Me
 
-Hey there! ??
+Hey there! 
 
 I'm **Neetu Nawani**, a developer interested in Python, frontend development, backend systems and databases.
 
@@ -74,12 +74,12 @@ I enjoy creating responsive websites, exploring Python applications and improvin
 
 My journey includes working with HTML, CSS, JavaScript, React, Python and SQL, while continuing to explore backend development with Django and FastAPI.
 
-- ?? Building projects with Python and web technologies
-- ?? Interested in responsive websites and user interfaces
-- ??? Practising SQL queries and database concepts
-- ?? Exploring API development with Django and FastAPI
-- ?? Interested in data analysis and Python automation
-- ?? Working toward becoming a well-rounded software developer
+-  Building projects with Python and web technologies
+-  Interested in responsive websites and user interfaces
+-  Practising SQL queries and database concepts
+-  Exploring API development with Django and FastAPI
+-  Interested in data analysis and Python automation
+-  Working toward becoming a well-rounded software developer
 
 > "The best way to learn programming is to build, experiment, debug and keep improving."
 
@@ -97,7 +97,7 @@ My journey includes working with HTML, CSS, JavaScript, React, Python and SQL, w
 
 **Technologies:** HTML5 · CSS3 · JavaScript · React · Bootstrap
 
-### ?? Python & Backend Development
+###  Python & Backend Development
 
 <div align="center">
 
@@ -109,7 +109,7 @@ My journey includes working with HTML, CSS, JavaScript, React, Python and SQL, w
 
 **Currently exploring:** Django · Django REST Framework · FastAPI · SQLAlchemy
 
-### ??? Databases
+### Databases
 
 <div align="center">
 
@@ -119,7 +119,7 @@ My journey includes working with HTML, CSS, JavaScript, React, Python and SQL, w
 
 **Database concepts:** SQL · Database Design · CRUD Operations · Joins · Queries
 
-### ?? Development Tools
+###  Development Tools
 
 <div align="center">
 
@@ -131,9 +131,9 @@ My journey includes working with HTML, CSS, JavaScript, React, Python and SQL, w
 
 ---
 
-## ?? Featured Projects
+##  Featured Projects
 
-### ?? Task Management API
+###  Task Management API
 
 A backend project developed using Django REST Framework to practise API development, task management and permission handling.
 
@@ -143,7 +143,7 @@ A backend project developed using Django REST Framework to practise API developm
 
 ---
 
-### ?? Task Management Dashboard
+###  Task Management Dashboard
 
 A React-based task management interface organised into reusable components for managing and displaying tasks.
 
@@ -153,7 +153,7 @@ A React-based task management interface organised into reusable components for m
 
 ---
 
-### ?? Student Records API
+###  Student Records API
 
 A FastAPI project for managing student records using CRUD operations and SQLAlchemy database models.
 
@@ -163,18 +163,18 @@ A FastAPI project for managing student records using CRUD operations and SQLAlch
 
 ---
 
-## ?? More Projects
+##  More Projects
 
 | Project | Technologies | Repository |
 |---|---|---|
-| ?? E-commerce Sales Analysis | Python, CSV, SVG | [View Project](https://github.com/neetunawani11/ecommerce-sales-analysis) |
-| ?? SQL E-commerce Project | SQL, Database Design | [View Project](https://github.com/neetunawani11/SQL-Ecommerce-Project) |
-| ?? Frontend Portfolio | HTML, CSS, JavaScript, Bootstrap | [View Project](https://github.com/neetunawani11/https-neetunawani11.github.io) |
-| ?? Personal Portfolio Website | HTML, CSS, JavaScript | [View Project](https://github.com/neetunawani11/neetunawani11.github.io) |
+|  E-commerce Sales Analysis | Python, CSV, SVG | [View Project](https://github.com/neetunawani11/ecommerce-sales-analysis) |
+|  SQL E-commerce Project | SQL, Database Design | [View Project](https://github.com/neetunawani11/SQL-Ecommerce-Project) |
+|  Frontend Portfolio | HTML, CSS, JavaScript, Bootstrap | [View Project](https://github.com/neetunawani11/https-neetunawani11.github.io) |
+|  Personal Portfolio Website | HTML, CSS, JavaScript | [View Project](https://github.com/neetunawani11/neetunawani11.github.io) |
 
 ---
 
-## ?? My GitHub Contribution Snake
+##  My GitHub Contribution Snake
 
 <div align="center">
 
@@ -190,19 +190,19 @@ A FastAPI project for managing student records using CRUD operations and SQLAlch
 
 ---
 
-## ?? GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
-### ?? GitHub Statistics
+###  GitHub Statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=neetunawani11&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=22D3EE&text_color=CBD5E1&bg_color=0D1117" width="480" alt="GitHub statistics">
 
-### ?? Most Used Languages
+###  Most Used Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neetunawani11&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=CBD5E1&bg_color=0D1117" width="400" alt="Most used languages">
 
-### ?? GitHub Streak
+###  GitHub Streak
 
 <img src="https://streak-stats.demolab.com/?user=neetunawani11&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA" width="480" alt="GitHub contribution streak">
 
@@ -210,18 +210,18 @@ A FastAPI project for managing student records using CRUD operations and SQLAlch
 
 ---
 
-## ?? Currently Improving
+##  Currently Improving
 
 | Focus Area | What I'm Practising |
 |---|---|
-| ?? Python | Functions, OOP, automation and problem-solving |
-| ?? Frontend | Responsive design, JavaScript and React components |
-| ?? Backend | Django, FastAPI and REST APIs |
-| ??? SQL | Joins, database relationships and queries |
-| ?? Data Analysis | Python, Pandas and NumPy fundamentals |
-| ?? Code Quality | Debugging, testing and documentation |
-| ?? Deployment | GitHub Pages, Docker and deployment basics |
-| ?? AI & ML | Exploring Python-based machine learning fundamentals |
+|  Python | Functions, OOP, automation and problem-solving |
+|  Frontend | Responsive design, JavaScript and React components |
+|  Backend | Django, FastAPI and REST APIs |
+|  SQL | Joins, database relationships and queries |
+|  Data Analysis | Python, Pandas and NumPy fundamentals |
+|  Code Quality | Debugging, testing and documentation |
+|  Deployment | GitHub Pages, Docker and deployment basics |
+|  AI & ML | Exploring Python-based machine learning fundamentals |
 
 ---
 
@@ -252,7 +252,7 @@ I'm always interested in learning new technologies, improving my projects and co
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://neetunawani11.github.io/)
 [![Repositories](https://img.shields.io/badge/Explore_Projects-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neetunawani11?tab=repositories)
 
-### ?? Thanks for Visiting!
+###  Thanks for Visiting!
 
 **Keep Learning • Keep Building • Keep Growing**
 
