@@ -177,7 +177,7 @@ A FastAPI project for managing student records using CRUD operations and SQLAlch
 
 <div align="center">
 
-### Watch the snake eat my contributions! ??
+### Watch the snake eat my contributions!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neetunawani11/neetunawani11/output/github-contribution-grid-snake-dark.svg">
