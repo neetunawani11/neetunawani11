@@ -1,1 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280" role="img" aria-label="Neetu Nawani - Python Developer, Frontend, Backend in progress">
+  <defs>
+    <clipPath id="frame"><rect width="1000" height="280" rx="16"/></clipPath>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1020"/>
+      <stop offset="1" stop-color="#111936"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#818CF8"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#94A3B8" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="55"/>
+    </filter>
+  </defs>
+
+  <style>
+    .sans { font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+    .orb1 { animation: drift1 9s ease-in-out infinite alternate; }
+    .orb2 { animation: drift2 11s ease-in-out infinite alternate; }
+    .bar  { transform-origin: 60px 0; animation: grow 1.4s ease-out both; }
+    .fade { opacity: 0; animation: fade 0.8s ease-out forwards; }
+    .l1 { animation-delay: 0.4s; } .l2 { animation-delay: 0.9s; }
+    .l3 { animation-delay: 1.4s; } .l4 { animation-delay: 1.9s; }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes drift1 { from { transform: translate(0,0); }   to { transform: translate(60px,30px); } }
+    @keyframes drift2 { from { transform: translate(0,0); }   to { transform: translate(-70px,-25px); } }
+    @keyframes grow   { from { transform: scaleX(0); }        to { transform: scaleX(1); } }
+    @keyframes fade   { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: translateX(0); } }
+    @keyframes blink  { 50% { opacity: 0; } }
+  </style>
+
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="280" fill="url(#bg)"/>
+    <rect width="1000" height="280" fill="url(#grid)"/>
+
+    <g filter="url(#blur)">
+      <circle class="orb1" cx="110" cy="250" r="110" fill="#38BDF8" fill-opacity="0.28"/>
+      <circle class="orb2" cx="860" cy="30"  r="130" fill="#818CF8" fill-opacity="0.32"/>
+    </g>
+
+    <!-- Left: identity -->
+    <text x="60" y="82" class="mono" font-size="14" fill="#38BDF8" letter-spacing="3">PORTFOLIO / README</text>
+    <text x="60" y="150" class="sans" font-size="62" font-weight="700" fill="#F8FAFC">Neetu Nawani</text>
+    <rect class="bar" x="60" y="170" width="120" height="4" rx="2" fill="url(#accent)"/>
+    <text x="60" y="212" class="sans" font-size="20" fill="#94A3B8">Python Developer  ·  Frontend  ·  Backend in progress</text>
+
+    <!-- Right: code window -->
+    <g transform="translate(655,52)">
+      <rect width="285" height="176" rx="12" fill="#0F172A" fill-opacity="0.92" stroke="#1E293B"/>
+      <circle cx="22" cy="22" r="5" fill="#F87171"/>
+      <circle cx="40" cy="22" r="5" fill="#FBBF24"/>
+      <circle cx="58" cy="22" r="5" fill="#34D399"/>
+      <line x1="0" y1="42" x2="285" y2="42" stroke="#1E293B"/>
+
+      <g class="mono" font-size="14">
+        <text class="fade l1" x="22" y="72"><tspan fill="#C084FC">class</tspan><tspan fill="#E2E8F0"> </tspan><tspan fill="#38BDF8">Developer</tspan><tspan fill="#E2E8F0">:</tspan></text>
+        <text class="fade l2" x="44" y="98"><tspan fill="#E2E8F0">focus   = </tspan><tspan fill="#86EFAC">"Python"</tspan></text>
+        <text class="fade l3" x="44" y="124"><tspan fill="#E2E8F0">building= </tspan><tspan fill="#86EFAC">"REST APIs"</tspan></text>
+        <text class="fade l4" x="44" y="150"><tspan fill="#E2E8F0">learning= </tspan><tspan fill="#86EFAC">"every day"</tspan><tspan class="cursor" fill="#38BDF8">
+
 
