@@ -1,4 +1,5 @@
 <div align="center">
+
 <img src="assets/banner.svg" width="100%" alt="Neetu Nawani — Python Developer, Frontend, Backend in progress">
 
 <br>
@@ -30,14 +31,18 @@ I build web interfaces and Python applications, and I'm growing into backend eng
 
 ### Selected work
 
+| Project | What it does | Stack |
+|---|---|---|
+| [**Task Management API**](https://github.com/neetunawani11/task-management-api) | Backend API for managing tasks, with permission handling | `Python` `Django` `DRF` |
+| [**Task Management Dashboard**](https://github.com/neetunawani11/task-management-dashboard) | React interface built from reusable components to manage and display tasks | `React` `JavaScript` `CSS` |
+| [**Student Records API**](https://github.com/neetunawani11/fastapi-student-api) | CRUD operations on student records using SQLAlchemy models | `Python` `FastAPI` `SQLAlchemy` |
+| [**E-commerce Sales Analysis**](https://github.com/neetunawani11/ecommerce-sales-analysis) | Analysis of e-commerce sales data | `Python` `CSV` `SVG` |
+| [**SQL E-commerce Project**](https://github.com/neetunawani11/SQL-Ecommerce-Project) | Database design and queries for an e-commerce system | `SQL` |
+| [**Portfolio Website**](https://github.com/neetunawani11/neetunawani11.github.io) | My personal portfolio site | `HTML` `CSS` `JavaScript` |
+
 <div align="center">
 
-<a href="https://github.com/neetunawani11/task-management-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=neetunawani11&repo=task-management-api&bg_color=0B1020&border_color=1E293B&title_color=38BDF8&text_color=94A3B8&icon_color=818CF8" width="49%" alt="task-management-api"></a>
-<a href="https://github.com/neetunawani11/task-management-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=neetunawani11&repo=task-management-dashboard&bg_color=0B1020&border_color=1E293B&title_color=38BDF8&text_color=94A3B8&icon_color=818CF8" width="49%" alt="task-management-dashboard"></a>
-<a href="https://github.com/neetunawani11/fastapi-student-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=neetunawani11&repo=fastapi-student-api&bg_color=0B1020&border_color=1E293B&title_color=38BDF8&text_color=94A3B8&icon_color=818CF8" width="49%" alt="fastapi-student-api"></a>
-<a href="https://github.com/neetunawani11/ecommerce-sales-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=neetunawani11&repo=ecommerce-sales-analysis&bg_color=0B1020&border_color=1E293B&title_color=38BDF8&text_color=94A3B8&icon_color=818CF8" width="49%" alt="ecommerce-sales-analysis"></a>
-<a href="https://github.com/neetunawani11/SQL-Ecommerce-Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=neetunawani11&repo=SQL-Ecommerce-Project&bg_color=0B1020&border_color=1E293B&title_color=38BDF8&text_color=94A3B8&icon_color=818CF8" width="49%" alt="SQL-Ecommerce-Project"></a>
-<a href="https://github.com/neetunawani11/neetunawani11.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=neetunawani11&repo=neetunawani11.github.io&bg_color=0B1020&border_color=1E293B&title_color=38BDF8&text_color=94A3B8&icon_color=818CF8" width="49%" alt="Portfolio website"></a>
+[![All repositories](https://img.shields.io/badge/See_all_repositories-→-38BDF8?style=for-the-badge&labelColor=0B1020)](https://github.com/neetunawani11?tab=repositories)
 
 </div>
 
@@ -62,20 +67,11 @@ I build web interfaces and Python applications, and I'm growing into backend eng
 | Python practice projects | REST API design & testing | Docker & cloud deployment |
 | SQL database projects | Pandas & NumPy | Open-source contributions |
 
-<img src="assets/divider.svg" width="100%" height="2" alt="">
-
-### GitHub at a glance
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=neetunawani11&show_icons=true&bg_color=0B1020&border_color=1E293B&title_color=38BDF8&text_color=94A3B8&icon_color=818CF8&ring_color=818CF8" width="49%" alt="GitHub statistics">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neetunawani11&layout=compact&langs_count=6&bg_color=0B1020&border_color=1E293B&title_color=38BDF8&text_color=94A3B8" width="49%" alt="Most used languages">
-
-</div>
-
 <br>
 
 <div align="center">
+
+![Followers](https://img.shields.io/github/followers/neetunawani11?style=flat-square&labelColor=0B1020&color=38BDF8&logo=github)
 
 <sub>Open to feedback, collaboration and conversations about code. &nbsp;·&nbsp; <a href="https://neetunawani11.github.io/">neetunawani11.github.io</a></sub>
 
